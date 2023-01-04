@@ -1,3 +1,5 @@
+package hola;
+
 public class Switch {
     public static void main(String[] args) {
         int dia = 4;
